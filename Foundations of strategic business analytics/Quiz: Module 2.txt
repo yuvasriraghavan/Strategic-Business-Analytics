@@ -1,1 +1,26 @@
 
+1) What is the correct mean and median of the coefficient of variations of the sales in the SKU dataset (DATA_2.01_SKU.csv)?
+Answer: Mean - 0.396 and Mode - 0.400
+
+2)Do a hierarchical clustering on scaled data using an Euclidian distance and Ward.D clustering on the SKU dataset (DATA_2.01_SKU.csv). What are the resulting segments compared to what is shown in class if you decide to take only 2 clusters?
+Answer: The segments "Wild Bull" and "Crickets" are merged.
+
+3)Which of the following graphs reports the correct plot of the last project evaluation as a function of the number of projects done for the HR dataset (DATA_2.02_HR.csv)?
+
+Note that the color or exact representation may be different in your version. 
+Answer: Option 3
+
+4)If you cluster the HR dataset (DATA_2.02_HR.csv) on Satisfaction, Project Evaluation and Number of Projects Done and that you keep 2 segments using the same values for the other specifications (scaling, distance type and clustering algorithm), what’s the resulting median Satisfaction per segment?
+
+Result of the aggregation and median Satisfaction by segment :
+
+(The values in the table are rounded.)
+Anwer: 1: 0.41, 2:0.46
+
+For the Telecom dataset (DATA_2.03_Telco.csv), using the specifications of the example presented in the videos, which of the following claim is correct?
+
+(You can select multiple answers.)
+
+Use the table below for the naming convention of the segments.
+Answer: 1) YA uses more data and text
+        3)All customers made at least one int. call
